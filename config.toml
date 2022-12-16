@@ -1,4 +1,4 @@
-baseURL = 'https://www.kevinmatt.top'
+baseURL = 'http://test.kevinmatt.top'
 languageCode = 'en-us'
 title = "Kevin's Space"
 theme = 'PaperMod'
