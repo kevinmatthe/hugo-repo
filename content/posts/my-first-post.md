@@ -38,5 +38,31 @@ draft: false
 
 ​	对于前者而言，直接购买硬件，创建定时任务是很容易实现的方案；
 
-​	而对于后者而言，则更多侧重于软件层面的保障(详细的Raid解析可以参考我的【另一篇博客】)
+​	而对于后者而言，则更多侧重于软件层面的保障(详细的Raid解析可以参考[什么是Raid](https://kevinmatt.top/posts/what-is-raid/))
+
+​	在一系列方案的比选之下，ZFS的Raid-Z脱颖而出，针对Raid-Z和ZFS我们可以简单的做一个概括：
+
+> ZFS是一个典型的Copy-On-Write(即写时复制)的文件系统，基于这个特性，其为我们提供了非常强大的快照功能和先进的数据保护机制，激进的内存缓存策略(通常1TB<==>1GB)也使得其拥有良好的热文件读写性能
+>
+> Raid-Z是ZFS提供的一种类似Raid5的软Raid，在存储池中包含一个校验驱动器，以4块4TB的硬盘为例，组成Raid-Z后将拥有3x4TB的容量和同一时间允许一块硬盘损坏/离线的冗余能力
+
+### 	阶段4：TrueNas Scale
+
+​	幸运的是，我们不需要手动的与命令行频繁的交互，开源的存储系统开发商TrueNas为我们提供了一套完整的ZFS系统交互组件和WebUI，考虑到Linux更加普遍的适应性，我们最终选择了基于Debian的TrueNas Scale作为Nas的OS；
+
+​	TrueNas Scale提供了完整的Debian环境，同时附带了一套完整的k3s环境，允许我们在轻量化的环境下使用容器化技术构建我们的服务，这一特性让TrueNas Scale在Nas系统的基础上衍生出了非常广的拓展能力：
+
+​	![img](https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/img/TrueNAS_SCALE_Software_Features_Half_Circle_Illustration_2022-1024x612.png)
+
+​	随着对TrueNas Scale的了解逐渐深入，一个Home Lab的计划逐渐在我的脑海里成型了
+
+​	这样的一台Home Lab将可以承担起非常多的任务，并高效的执行一些自动化的工作；之前部署的开黑啦机器人、本机运行的Jellyfin影音服务器、局域网内的全局代理服务…
+
+​	软件上的计划已经开始成型：
+
+- TrueNas Scale作为家庭服务器系统
+- 轻量云服务器作为内网服务穿透的公网节点
+- ZFS-RAIDZ构建高可用的存储阵列
+
+那么接下来要做的就是准备硬件了，请见[HomeLab搭建日记（二）]()
 
