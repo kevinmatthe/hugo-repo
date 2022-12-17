@@ -1,0 +1,5 @@
+baseURL = 'http://test.kevinmatt.top'
+languageCode = 'en-us'
+title = "Kevin's Space"
+theme = 'meme'
+
