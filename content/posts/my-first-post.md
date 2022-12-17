@@ -4,6 +4,8 @@ date: 2022-12-17T05:17:40+08:00
 draft: false
 ---
 
+<img src="https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/20201018113823.png" alt="img" style="zoom:50%;" />
+
 ### 背景
 
 >  苦于国内各大流媒体平台长期以来的分辨率、码率不达标导致观影体验不够完美，一直以来有保存高质量的(eg:4K HEVC 10bit)电影以供收藏和回放的需求，于是衍生出了大容量的存储需求。
