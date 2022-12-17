@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = 'http://test.kevinmatt.top'
+baseURL = 'https://www.kevinmatt.top'
 title = "Kevin's Space"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -1270,7 +1270,7 @@ uglyURLs = false
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = ""
+    customFooter = "![](https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/img/icp.png)蜀ICP备2021007604号-1"
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "本站访客数"
