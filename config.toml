@@ -6,7 +6,7 @@ title = "Kevin's Space"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "![CC BY-NC-SA 4.0](https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/img/icp.png)蜀ICP备2021007604号-1"
+copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 # 主题选择
 theme = "meme"
