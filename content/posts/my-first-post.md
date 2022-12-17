@@ -2,6 +2,8 @@
 title: "HomeLab搭建日记（一）"
 date: 2022-12-17T05:17:40+08:00
 draft: false
+categories: 
+    - nas
 ---
 
 <img src="https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/20201018113823.png" alt="img" style="zoom:50%;" />

@@ -2,6 +2,8 @@
 title: "What Is RAID"
 date: 2022-12-17T09:27:26+08:00
 draft: false
+categories: 
+    - nas
 ---
 
 ### 1.RAID的定义
