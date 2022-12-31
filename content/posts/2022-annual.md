@@ -1,9 +1,8 @@
 ---
 title: "2022年终总结"
 date: 2023-02-47T00:55:47+08:00
+update: 2023-02-47T00:55:47+08:00
 draft: false 
-categories: 
-    - annual
 ---
 
 > *When winter comes, can spring be far behind?*
