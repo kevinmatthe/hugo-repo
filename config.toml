@@ -968,7 +968,7 @@ uglyURLs = false
     # 说明文字
     fontFamilyCaption = ""
     # 页脚
-    fontFamilyFooter = "Ubuntu"
+    fontFamilyFooter = "'Ubuntu', 'Noto Sans SC', serif"
     # 主体
     fontFamilyBody = "'Ubuntu', 'Noto Sans SC', serif"
 
