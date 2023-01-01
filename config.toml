@@ -964,7 +964,7 @@ uglyURLs = false
     # 引用
     fontFamilyQuote = "'Ubuntu', 'Noto Serif SC'"
     # 文章目录
-    fontFamilyTOC = "'Long Cang', serif"
+    fontFamilyTOC = "'Noto Serif SC', 'EB Garamond', serif"
     # 说明文字
     fontFamilyCaption = ""
     # 页脚
