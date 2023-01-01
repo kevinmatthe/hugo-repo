@@ -954,7 +954,7 @@ uglyURLs = false
     # 品牌栏
     fontFamilySiteBrand = "Rock Salt"
     # 菜单栏
-    fontFamilyMenu = ""
+    fontFamilyMenu = "'Noto Serif SC', 'EB Garamond', serif"
     # 文章标题、文章副标题、列表标题、列表的年份和月份标题、相关文章标题、文章上下篇标题、表格的表头、定义列表中的术语
     fontFamilyTitle = "'Noto Serif SC', 'EB Garamond', serif"
     # 分节标题、目录标题
@@ -966,7 +966,7 @@ uglyURLs = false
     # 文章目录
     fontFamilyTOC = "'Noto Serif SC', 'EB Garamond', serif"
     # 说明文字
-    fontFamilyCaption = "'Noto Serif SC', 'EB Garamond', serif"
+    fontFamilyCaption = ""
     # 页脚
     fontFamilyFooter = "'Ubuntu', 'Noto Sans SC', serif"
     # 主体
