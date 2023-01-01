@@ -962,7 +962,7 @@ uglyURLs = false
     # 代码、上标、文章元信息、文章更新徽章、文章的 Git 版本信息、极简页脚、不蒜子站点浏览计数
     fontFamilyCode = "'Source Code Pro', 'Noto Serif SC', monospace"
     # 引用
-    fontFamilyQuote = "'Courgette', 'Ma Shan Zheng', serif"
+    fontFamilyQuote = "'Courgette', 'Ma Shan Zheng'"
     # 文章目录
     fontFamilyTOC = "'Noto Serif SC', serif"
     # 说明文字
