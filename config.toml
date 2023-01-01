@@ -966,7 +966,7 @@ uglyURLs = false
     # 文章目录
     fontFamilyTOC = "'Noto Serif SC', 'EB Garamond', serif"
     # 说明文字
-    fontFamilyCaption = "'Ubuntu', 'Noto Sans SC', serif"
+    fontFamilyCaption = "'Noto Serif SC', 'EB Garamond', serif"
     # 页脚
     fontFamilyFooter = "'Ubuntu', 'Noto Sans SC', serif"
     # 主体
