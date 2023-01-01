@@ -973,7 +973,7 @@ uglyURLs = false
     fontFamilyBody = "'Ubuntu', 'Noto Sans SC', serif"
 
     # 网络字体链接
-    fontsLink = "https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Ubuntu&family=JetBrains+Mono&family=Gloria+Hallelujah&family=Zhi+Mang+Xing&family=Long+Cang&family=ZCOOL+XiaoWei&family=Noto+Sans+SC:wght@400&family=Rock+Salt&family=Ma+Shan+Zheng&display=swap"
+    fontsLink = "https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Ubuntu&family=JetBrains+Mono&family=Long+Cang&family=Noto+Sans+SC:wght@400&display=swap"
     # 说明：要想读者一定体验到你设置的字体，最好
     #      采用网络字体。MemE 主题目前仅支持
     #      Google Fonts 的链接，请前往
