@@ -956,7 +956,7 @@ uglyURLs = false
     # 菜单栏
     fontFamilyMenu = ""
     # 文章标题、文章副标题、列表标题、列表的年份和月份标题、相关文章标题、文章上下篇标题、表格的表头、定义列表中的术语
-    fontFamilyTitle = "'Zhi Mang Xing', 'EB Garamond', serif"
+    fontFamilyTitle = "'Noto Serif SC', 'EB Garamond', serif"
     # 分节标题、目录标题
     fontFamilyHeadings = "'Long Cang', 'EB Garamond', serif"
     # 代码、上标、文章元信息、文章更新徽章、文章的 Git 版本信息、极简页脚、不蒜子站点浏览计数
@@ -964,7 +964,7 @@ uglyURLs = false
     # 引用
     fontFamilyQuote = "'Gloria Hallelujah', 'Zhi Mang Xing'"
     # 文章目录
-    fontFamilyTOC = "'Noto Serif SC', serif"
+    fontFamilyTOC = "'Long Cang', serif"
     # 说明文字
     fontFamilyCaption = ""
     # 页脚
