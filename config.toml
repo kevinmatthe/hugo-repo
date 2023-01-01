@@ -962,7 +962,7 @@ uglyURLs = false
     # 代码、上标、文章元信息、文章更新徽章、文章的 Git 版本信息、极简页脚、不蒜子站点浏览计数
     fontFamilyCode = "'JetBrains Mono', 'Noto Serif SC', monospace"
     # 引用
-    fontFamilyQuote = "'Ubuntu', 'Zhi Mang Xing'"
+    fontFamilyQuote = "'Ubuntu', 'Noto Serif SC'"
     # 文章目录
     fontFamilyTOC = "'Long Cang', serif"
     # 说明文字
