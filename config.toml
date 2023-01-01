@@ -96,7 +96,7 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "KevinMatthHe"
+    name = "KevinMattHe"
     # 邮箱
     email = "heyuhengkevin@gmail.com"
     # 座右铭或简介
@@ -966,7 +966,7 @@ uglyURLs = false
     # 文章目录
     fontFamilyTOC = "'Noto Serif SC', 'EB Garamond', serif"
     # 说明文字
-    fontFamilyCaption = ""
+    fontFamilyCaption = "'Ubuntu', 'Noto Sans SC', serif"
     # 页脚
     fontFamilyFooter = "'Ubuntu', 'Noto Sans SC', serif"
     # 主体
