@@ -970,7 +970,7 @@ uglyURLs = false
     # 页脚
     fontFamilyFooter = "Luckiest Guy"
     # 主体
-    fontFamilyBody = "'EB Garamond', 'Noto Sans SC', serif"
+    fontFamilyBody = "'Ubuntu', 'Noto Sans SC', serif"
 
     # 网络字体链接
     fontsLink = "https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Ubuntu&family=JetBrains+Mono&family=Gloria+Hallelujah&family=Zhi+Mang+Xing&family=Long+Cang&family=ZCOOL+XiaoWei&family=Noto+Sans+SC:wght@400&family=Rock+Salt&family=Ma+Shan+Zheng&display=swap"
